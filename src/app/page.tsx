@@ -1,3 +1,4 @@
+// Author Credits: Steve Hatch (steve@hatch.org), Cursor AI, ChatGPT
 "use client";
 import { useState, useEffect, useRef } from "react";
 

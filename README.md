@@ -39,7 +39,7 @@ A beautiful, artistic web application that helps you perfectly hang artwork on y
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/art-hanger.git
+   git clone https://github.com/shatch/art-hanger.git
    cd art-hanger
    ```
 
@@ -142,5 +142,10 @@ This project is open source and available under the [MIT License](LICENSE).
 - Designed to make art hanging both precise and beautiful
 
 ---
+
+**Author Credits:**
+- Steve Hatch ([steve@hatch.org](mailto:steve@hatch.org))
+- Cursor AI
+- ChatGPT
 
 **Happy hanging! 🎨📌**
