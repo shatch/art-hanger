@@ -1,4 +1,5 @@
 // Author Credits: Steve Hatch (steve@hatch.org), Cursor AI, ChatGPT
+// Version: 1.0.0
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";

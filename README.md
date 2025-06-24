@@ -1,5 +1,7 @@
 # 🎯 The Hanging Equation
 
+**Version: 1.0.0**
+
 A beautiful, artistic web application that helps you perfectly hang artwork on your walls. This app calculates the optimal nail placement height based on your artwork dimensions and wire configuration, ensuring your art is displayed at the ideal eye level.
 
 ## ✨ Features
