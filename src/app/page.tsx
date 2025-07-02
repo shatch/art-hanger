@@ -190,7 +190,7 @@ export default function ArtHangingCalculator() {
           </button>
           {nailHeight && (
             <div className="text-xl font-bold text-center mt-4 tracking-wider drop-shadow-sm">
-              📌 Place the nail at <span className="text-indigo-600 dark:text-indigo-300 font-extrabold text-2xl">{nailHeight}"</span> from the floor.
+              📌 Place the nail at <span className="text-indigo-600 dark:text-indigo-300 font-extrabold text-2xl">{nailHeight}&quot;</span> from the floor.
             </div>
           )}
         </div>
